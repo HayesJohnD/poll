@@ -2,4 +2,7 @@ bin
 lib
 lib64
 share
-__pycache__y
+__pycache__
+mysite/mysite/settings.py
+mysite/.schema
+mysite/db.sqlite3
