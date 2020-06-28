@@ -4,5 +4,4 @@ lib64
 share
 __pycache__
 mysite/mysite/settings.py
-mysite/.schema
 mysite/db.sqlite3
